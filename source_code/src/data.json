@@ -1,63 +1,53 @@
 {
   "personal_details": {
-    "name": "Jane Doe",
-    "role": "Full Stack Developer",
-    "mobile": "+91 9876543210",
-    "email": "janedoe@gmail.com",
-    "location": "Bengaluru",
+    "name": "Suchitra Mahato",
+    "role": "Software Engineer",
+    "mobile": "+91 7903666804",
+    "email": "soochimahto@gmail.com",
+    "location": "Bhubaneswar",
     "experience": [
-      { "type": "Full Stack Experience on MERN", "years": "4 years" },
-      { "type": "Total Experience", "years": "6 years" }
+      { "type": "Mainframe Programmer experience", "years": "2 years" },
+      { "type": "Total Experience", "years": "2.6 years" }
     ],
-    "linkedin": "jane-doe-11",
-    "github": "jane_doe_test_85"
+    "linkedin": "suchitra-mahato-477a83103",
+    "github": "Suchitra-hash"
   },
   "summary": {
     "title": "About me",
-    "description": "I have been working with web development since 2010, the period during which I have worked in different environments, from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve problems"
+    "description": "I have working experience of 6 months in MAQ Software. Then I joined Infosys as a System Engineer and have been working in Mainframe system since 2018. During which I have improved my skills a lot in analysis, debugging, code-fixes and domain. I am a self-motivated and self-taught professional who likes to solve problems"
   },
   "career": {
     "title": "Career Objective",
-    "description": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives."
+    "description": "A highly organized and hard-working individual looking for a responsible position to gain <u>practical experience</u> and to make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience."
   },
   "companyDetails": {
     "title": "Professional Experience",
     "companyList": [
       {
-        "name": "Dummy Corporation 1",
-        "role": "Senior Software Developer",
-        "years": "Jan 2018 - present",
-        "expYears": "2.5 years",
+        "name": "Infosys Ltd.",
+        "role": "System Engineer",
+        "years": "Aug 2018 - present",
+        "expYears": "2 years",
         "description": [
-          "Use my extensive experience with front end development to <u>define the structure and components</u> for the project, making sure they are reusable",
-          "Keep the code quality high reviewing code from other developers and suggesting improvements",
-          "Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality"
+          "Analyze and fix Service Requests based on Business requirements.",
+          "Debug code in case of defect and give proper code fix to be installed in production.",
+          "Reduced manual effort by designing JCL job that automatically query database to fetch result.",
+          "Monitor during implementation and working on Ad-hoc changes if required.",
+          "Developing COBOL-DB2 modules and API's/Service based requirements and unit testing and integration testing after development.",
+          "Written DB2 query to fetch details from database for various validations and simulations."
         ]
       },
       {
-        "name": "Dummy Corporation 2",
-        "role": "Software Developer",
-        "years": "Jun 2015 - Dec 2017",
-        "expYears": "2.5 years",
+        "name": "MAQ Software",
+        "role": "Software Developer Intern",
+        "years": "Jan 2018 - Jun 2018",
+        "expYears": "0.6 years",
         "description": [
-          "Develop web applications based on Sharepoint, Drupal 8 and Episerver",
-          "Lead a team of <strong>10 front end developers</strong>, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions",
-          "Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team",
-          "Keep the code and the features implemented by the other developers in accordance to the requirements"
-        ]
-      },
-      {
-        "name": "Dummy Corporation 3",
-        "role": "Trainee Developer",
-        "years": "Aug 2011 - May 2015",
-        "expYears": "1 years",
-        "description": [
-          "Design easy user interfaces and great user experiences for the digital platforms of small companies",
-          "Wordpress development, including themes creation or customization, custom plugins development and training",
-          "E-commerce maintenance <i>with Fastcommerce</i>, a Brazilian e-commerce platform",
-          "E-commerce development with Magento, customizing preexisting themes ",
-          "Integrate external services such as payment services, delivery, etc into Magento solutions",
-          "VPS configuration and optimization (Apache & Nginx)"
+          "Customized Power BI reports using custom visuals Gantt Chart, Bowtie Chart, Linear Gauge, and Horizontal Funnel.",
+          "Developed API for Power BI Custom Visuals to convert and download reports in PDF.",
+          "Created Data Pipelines in Azure Data Factory.",
+          "Added a small feature using Node.js",
+          "Added changes in stored procedure using SQL and merged changes to repository."
         ]
       }
     ]
@@ -65,55 +55,58 @@
   "key_projects": {
     "title": "Key Projects / Involvements",
     "description": [
-      "Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.",
-      "Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.",
-      "Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability."
+      "Working in Aetna Managed Services(MS) under claim domain under Aetna client(HealthCare Insurance).",
+      "Worked in \"Real Time Data Analytics With Azure and Power BI\" in MAQ Software",
+      "Involved in \"Computerization of Marketing Management\" for internship in Skyla Software Solution (P) Ltd.",
+      "Involved in \"Reduction in Outstanding Dues of Utility bills Through Data Analysis\" for internship in JUSCO",
+      "Virtual Classroom (E-learning) project allowed teached to upload notes and student to access notes using HTML, CSS, Javascript, PHP and SQL.",
+      "Hostel Mess Managemet System project to manage fees for all students of different department using HTML, CSS, Javascript, PHP and SQL."
     ]
   },
   "certificates": {
     "title": "Certificates and Awards",
     "description": [
-      "<strong>React</strong> and redux - A complete guide 2020 from Udemy",
-      "Agile and Scrum Master Certificate from Udacity",
-      "Best performer award for consistently exceeding the performance",
-      "Certificate of exceptional bug finder by XYZ client",
-      "Recorgnition zero defect delivery"
+      "<strong>The Complete Web Developer in 2020:Zero to Mastery</strong> from Udemy",
+      "Agile beginner certificate from Infosys",
+      "Recognition for delivering result quickly"
     ]
   },
   "skills": {
     "title": "Technical Skills",
     "description": [
-      { "name": "GoLang", "rating": 4 },
-      { "name": "Deno", "rating": 3 },
-      { "name": "React", "rating": 3 },
-      { "name": "JavaScript", "rating": 4 },
+      { "name": "COBOL", "rating": 4 },
+      { "name": "JCL", "rating": 4 },
+      { "name": "CICS", "rating": 3 },
+      { "name": "C/C++", "rating": 4 },
+      { "name": "REXX", "rating": 3 },
+      { "name": "JavaScript", "rating": 3 },
       { "name": "CSS", "rating": 3 },
       { "name": "HTML5", "rating": 4 }
     ]
   },
   "expertise": {
     "title": "Areas of Expertise",
-    "description": ["Algorithms", "Data Structures", "Redux", "SQL", "jQuery", "Progressive Web Apps"]
+    "description": ["Algorithms", "Data Structures", "DB2", "SQL", "OS Concept", "Network concept"]
   },
   "methodology": {
     "title": "Methodology / Approach",
     "description": [
-      "Component based architecture", "Agile methodology", "Design Patterns", "Test Driven Development", "Model View Controller",  "RESTful architecture"
+       "Agile methodology","KANBAN methodology"
     ]
   },
   "tools": {
     "title": "Tools",
-    "description": ["Git", "VS Code", "Jira", "Webpack", "Eclipse"]
+    "description": ["Rumba", "Git", "MS OFFICE", "Endeavor", "SSMS","Window","Linux","Mainframe", "Azure DevOps"]
   },
   "education": {
     "title": "Education",
     "description": [
       {
-        "institution": "XIV, University",
-        "years": "2010 - 2014",
-        "grade": "8.3",
-        "degree": "B.Tech",
-        "specialization": "Masters in Cloud Technology"
+        "institution": "National Institute of Technology, Jamshedpur",
+        "years": "2015 - 2018",
+        "grade": "8.4",
+        "degree": "MCA",
+        "specialization": "Computer Application"
       }
     ]
   }
